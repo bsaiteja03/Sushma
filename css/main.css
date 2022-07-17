@@ -62,6 +62,7 @@ html {
   color: rgba(0, 0, 0, 0.6) !important;
 }
 
+
 /* Hero (intro) section */
 .intro-title {
   font-weight: 800;
@@ -181,7 +182,7 @@ img.avatar {
 
 /* Portolio Caption */
 #bp_container .bp-xc {
-  background: #F6E05E !important;
+  background: #c2abba !important;
 }
 
 #bp_caption a {
@@ -194,6 +195,11 @@ footer a:not(.nav-link) {
   font-weight: 600;
   text-decoration: none;
   cursor: pointer;
+  padding-top: 0%;
+}
+
+.sign{
+
 }
 
 /* Scroll Top */
@@ -275,3 +281,4 @@ footer a:not(.nav-link) {
 .entry-title a {
   text-decoration: none;
 }
+
